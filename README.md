@@ -1,4 +1,4 @@
-# 🚌 Green University Bus Service Web Application
+# 🚌 University Bus Service Web Application
 
 A web-based platform designed to streamline daily student bus bookings, scheduling, and communication for Green University of Bangladesh.
 
@@ -37,5 +37,8 @@ This project offers a user-friendly interface for students to:
 | Frontend     | HTML, CSS, JS       |
 | Backend      | PHP                 |
 | Database     | MySQL               |
+
+Create Database From **needed_SQL_queries** file given in repository.
+
 
 ---
