@@ -39,10 +39,3 @@ This project offers a user-friendly interface for students to:
 | Database     | MySQL               |
 
 ---
-
-## 🚀 How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/green-uni-bus-service.git
-   cd green-uni-bus-service
