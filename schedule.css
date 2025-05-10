@@ -1,0 +1,108 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li a.active {
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+h3 {
+    color: #333;
+}
+
+.schedule-table {
+    margin-top: 20px;
+}
+
+.schedule-table h4 {
+    margin-bottom: 10px;
+}
+
+.schedule-table table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.schedule-table table th,
+.schedule-table table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.schedule-table table th {
+    background-color: #f2f2f2;
+}
+
+.routes {
+    margin-top: 30px;
+}
+
+.routes ul {
+    list-style: none;
+    padding: 0;
+}
+
+.routes ul li {
+    margin-bottom: 10px;
+}
+
+.routes ul li a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.routes ul li a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    width: 100%;
+    bottom: -20%;
+}
+.logo {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.logo img {
+    height: 100px; /* Adjust based on your logo size */
+    width: auto;
+}
